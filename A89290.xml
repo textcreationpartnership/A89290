@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The more excellent way or, a brief discourse of that noble principle in which all worthy actions are wrought.</title>
+         </titleStmt>
+         <extent>Approx. 48KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89290</idno><idno type="EEBO-CITATION">99867969</idno>
+  <idno type="VID">169767</idno>
+  <idno type="EEBO-PROQUEST">2240929364</idno>
+  
+            <idno type="STC">Wing M2700</idno>
+            <idno type="STC">Thomason E1317_6</idno>
+            <idno type="STC">ESTC R209064</idno>
+            <idno type="PROQUEST">99867969</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867969e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89290)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169767)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 176:E1317[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The more excellent way or, a brief discourse of that noble principle in which all worthy actions are wrought.</title>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Giles Calvert,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Anonymous.</note>
+                  <note>Annotation on Thomason copy: "Dec: 22".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Faith --  Early works to 1800.</term>
+               <term type="topical_term">Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169767:1"/>
+            <p>The MORE EXCELLENT WAY: Or, A brief DISCOURSE OF THAT Noble Principle In which <hi>All Worthy actions</hi> are wrought.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for GILES CALVERT. 1650.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:169767:2"/>
+            <pb facs="tcp:169767:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Beloved Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have here offered to thy view and consideration a few Lines, wherein I endeavour to be both sear<g ref="char:EOLhyphen"/>ching and healing. Be thou as willing to be wounded as cured. For it is Gods ordinary Method, like a wise Physitian, to lance the putrified part, before he apply healing. Christ is a Judge to the old man in us; and in the new man in us, is he a Saviour to us. Christ, to the flesh, is <hi>Moses,</hi> and an administration of Condemnation; but in the new man, is he appearing like himself, lovely altogether, as an ad<g ref="char:EOLhyphen"/>ministration of Righteousness. The Law, in <hi>Christ</hi>'s hand, cannot wound,
+<pb facs="tcp:169767:3"/>nor condemn; the sting and venom of it is taken away: But <hi>Christ,</hi> in the hand of <hi>Moses,</hi> searches to the deep and quick: he is a dreadful or delight<g ref="char:EOLhyphen"/>ful object, according as the eye that beholds him is a double or a single, a dark or a light eye. Christ is altoge<g ref="char:EOLhyphen"/>ther Love, and lovely, to a light eye, to one seeing by Faith; but a consu<g ref="char:EOLhyphen"/>ming fire, to a dark understanding. He may be one or both to thee, in these few lines. But whatever he be to thee, stooping to, and kissing the Son, will be the best way thou canst take: For, never any that withstood the Lord, prospered. The smallest ap<g ref="char:EOLhyphen"/>pearance of his wrath, maketh the mountains to tremble.</p>
+            <p>The End of these few Lines, is, to prove mens work, and to help men to prove their own work. If it be good work, it will patiently abide the trial; but if not, it will be apt to censure, though not able to withstand. If the
+<pb facs="tcp:169767:3"/>heart lie down under the Trial, 'tis a good Symptome; but if not, but that it rise up against it with a boiling spi<g ref="char:EOLhyphen"/>rit, all's not sound: sound flesh will endure to be touched and handled. So is a sound spirit: if it make en<g ref="char:EOLhyphen"/>trance into the secret place of the heart, 'twill operate and effect some<g ref="char:EOLhyphen"/>thing. All work is good, that is done from a good and sound Principle. If the Principle be not sound, the Work cannot be sound, though it be fair to see to. If your Works be done in <hi>A<g ref="char:EOLhyphen"/>dam,</hi> they are of the worst sort, to be sure: but if in <hi>Christ,</hi> they will abide. <hi>Adam</hi> doth nothing well; <hi>Christ</hi> doth all well, and nothing amiss. Ask the question then seriously, with a desire to know, whether you are in <hi>Adam,</hi> or in <hi>Christ.</hi> You were better not work at all, then not to work from the last and best Principle of <hi>Christ.</hi>
+            </p>
+            <p>What follows, designes the clear<g ref="char:EOLhyphen"/>ing upon what Bottom men stand,
+<pb facs="tcp:169767:4"/>what Legs men go on, and with what Hearts men do the things they do: for if they do not do from <hi>Christ,</hi> they do but undo themselves, and labour hard to multiply and contract guilt to themselves, and condemnation.</p>
+            <p>He that writes these few Lines, de<g ref="char:EOLhyphen"/>sires to have you do soundly and searchingly; <hi>Nathanael</hi>-like, and not Pharisee-like: which you cannot do, but in Christ. I had rather you know the Name of God, and <hi>the Truth as it is in Jesus,</hi> then my Name, or who it is that writes these Lines; and therefore subscribe my self, <hi>A Friend to Truth and Peace.</hi>
+            </p>
+            <p>If the Lines that you read have not authority in themselves, in the sence they hold forth, no name under hea<g ref="char:EOLhyphen"/>ven can give them authority, but one<g ref="char:EOLhyphen"/>ly the Name of God, whose Name is my Sanctuary and Refuge.</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169767:4"/>
+            <head>CHRIST in MOSES, and MOSES in CHRIST: OR, The Law in Gospel-clothing, OR, The Gospel under Legal administration. OR, What Works are the works of the <hi>Law,</hi> and what the works of <hi>Faith.</hi>
+            </head>
+            <head type="sub">Explained in a word or two by the different Principles from whence all Actions flow, of <hi>ADAM</hi> and <hi>CHRIST.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <lg>
+                     <l>In <hi>Moses</hi> shape may <hi>Christ</hi> appear, when Love commands to do;</l>
+                     <l>And <hi>Moses</hi> in <hi>Christ</hi>'s shape may be, when Fear of God acts you.</l>
+                     <l>If therefore Law's commands you'd change to promises of grace,</l>
+                     <l>In Love alone do and perform, and not from Fear so base.</l>
+                     <l>If of the Law you'd Gospel make, in <hi>Moses Christ</hi> you'd see,</l>
+                     <l>Then Fear must not you set a work, but Love your King must be.</l>
+                  </lg>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg> Have here a word or two to speak to the Knowing ignorant Righteous sinful world; and 'tis a searching unbottom<g ref="char:EOLhyphen"/>ing Word; 'tis to turn the garment of Pro<g ref="char:EOLhyphen"/>fession,
+<pb n="2" facs="tcp:169767:5"/>that will hardly bear or abide a new dressing. 'Tis the last and worst Age of the world, that's certain, that hath its best side out<g ref="char:EOLhyphen"/>ward. All the work of the Times now-a-days, is to get a fair Covering for rotten Principles; to get the Name of God into their mouthes, and to banish his Power out of their hearts. I censure no mans person, but judge and con<g ref="char:EOLhyphen"/>demn that Principle of unrighteousness that runs and shrouds it self (May I not say every<g ref="char:EOLhyphen"/>where?) under a Form of Godliness. And it appears to be but a Form, by the general Con<g ref="char:EOLhyphen"/>tention and Strife of Tongues that are amongst us, an onely mark of Carnality. Through Pride, comes Contention, and Contention has brought us to Confusion; and blessed be the Lord for it, whose immediate hand we may now expect to restore us, and to create his own Order amongst us again. All Orders and Sets of people are miserably lost and mistaken in this main and onely thing, that while they so earnestly press conformity to the Letter, they neglect the looking after what Principle people act upon: They generally labour to action people, but not to foundation them aright in acting. Some foolishly labour to make men conform to their wills, by the power of Magi<g ref="char:EOLhyphen"/>stracie; and others, that have not that power,
+<pb n="3" facs="tcp:169767:5"/>by the curse of the Law: but rarely is it seen that any endeavours to draw hearts to obedi<g ref="char:EOLhyphen"/>ence by the power of Christ. This is much to be lamented. But that cannot be well done, that we are driven to by the power of the Law, and not drawn to by the power of the Gospel, or the manifestation of the love of God.</p>
+            <p>I would not have men leave off the keeping of <hi>Moses</hi>'s Statutes, while the world stands; but I would have them not driven, but drawn to the keeping of them, by the grace of the Gospel; which grace is onely and alone able to make men soundly and sincerely to keep the Law. I would fain have Saints so do, that they might do righteous works in Righteousness. I would fain have Christ's righteousness dwell in and possess all your actions. I would fain have your actions be spirited, and proceed from life. I would fain have the Fruits have a good Core, as well as a good Skin and Colour: and that for this reason would I have your hearts no less, but bigger then your actions; that as your name smells sweet, by the influence your acti<g ref="char:EOLhyphen"/>ons have; so your souls, and secret parts with<g ref="char:EOLhyphen"/>in, might rejoyce and chear, from the influence of a good and righteous Principle: that as your Works declare Faith to the judgement of men; so Christ, or that righteous Principle in you,
+<pb n="4" facs="tcp:169767:6"/>might witness you righteous in the sight of God, in the secrets of your own bosome. My Designe is your Bosome-satisfaction, that you may have a clearer testimony within, from the Spirit, then without, from all your goodly and gallant works and performances.</p>
+            <p>But thus much onely to usher in my follow<g ref="char:EOLhyphen"/>ing Discourse.</p>
+            <p>Que<g ref="char:EOLhyphen"/>stion. <hi>VVHat is it that makes a real and true Christian?</hi>
+            </p>
+            <p>
+               <hi>Answer.</hi> Christ, that Anointing or a sound Principle, the love of God: not a work, or works though never so many and lovely: not the fulfilling of all the Commands in the Bible, but a heart filled and principled with Love that holy Unction: not bare action or form, but that that creates them, and gives being to them; which is Christ.</p>
+            <p>Q. <hi>What makes actions bad, that are seemingly good in themselves?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Their principle they come from. And the Principle that makes good actions bad, is <hi>Adam,</hi> or Self, that original of all unrighteous<g ref="char:EOLhyphen"/>ness: this Principle makes a man to terminate in himself whatever he does, to make himself his end in all he does.</p>
+            <p>Q. <hi>How doth this Principle discover it
+<pb n="5" facs="tcp:169767:6"/>self, or how is it discerned?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> When all our goings out in action or performance, is but to fetch in to our selves some good: when we pray for our selves, and preach for our selves, to procure or get worldly good or heavenly good thereby: when we are not happie in acting; but act that we may be hap<g ref="char:EOLhyphen"/>pie: when 'tis not our glory to do, but do that we may have glory: when we seek for grace but in order to glory, and not for grace as being glory it self.</p>
+            <p>Q. <hi>But are all our works nothing? Ʋp<g ref="char:EOLhyphen"/>on this ground, how are we to account of our works thus acted?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We call and account them to be but the righteousness of the Law, not of Faith; but rags; and menstruous stuff, that are to be forgotten; and of no account, but to be accounted as dross and dung: they are but our own works, and not Christs works: let them be what they will in bulk; though they be the highest in act, giving all our goods, and that to the poor too, from whom there is no return; yea though it be our bodies to the fire for the pro<g ref="char:EOLhyphen"/>fession of Christ, by whom we hope to be saved.</p>
+            <p>Q <hi>But what will become of all the good Works in the world, if it be thus? Where
+<pb n="6" facs="tcp:169767:7"/>is the man that acts purely and righteously, if it be thus?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> There is a Day coming, a Day of Judgment for all such Works; a Day wherein the Lord will try all Works by fire: and these Works are the stubble that shall be con<g ref="char:EOLhyphen"/>sumed to ashes.</p>
+            <p>Q. <hi>But cannot it be so, that all should be naught? what, all the Zealous Performan<g ref="char:EOLhyphen"/>ces of these and former times? Have not some, nay many, suffered much to obey and keep Commands? and is all this so little worth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> If they suffered or did for such an end as before, hoping or expecting thereby a reward; if it were not a reward to them to suffer, 'twas all drossie and reprobate-stuffe, and laid out for the fire.</p>
+            <p>Q. <hi>But if it be thus, no flesh shall be saved.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, Not any flesh, not any thing of the Old-Man in us, or without; not the Old-Man in the newest and best apparel of Works that can be, shall escape the Fire: all flesh▪ and fleshie Works, as these are, are alotted to the Flames.</p>
+            <p>Q. <hi>But pray let me more thorowly un<g ref="char:EOLhyphen"/>derstand what this</hi> Adamite-<hi>Principle is:
+<pb n="7" facs="tcp:169767:7"/>for certainly 'tis a Serpent in our bosomes, full of Venome, that can poison such gal<g ref="char:EOLhyphen"/>lant Works, and that doth so abominate all our best things.</hi>
+            </p>
+            <p>
+               <hi>A. Adam</hi> in us, is the spirit bound up in and to it self, whereby all freedome is stifled and imprisoned. The heart so Prin<g ref="char:EOLhyphen"/>cipled in all it does, does for it self: It makes Creatures look more at the end of their Work, then the Work it self: it makes them quick-sighted for their own advantage in every thing. Christ is One for us all, and <hi>Adam</hi> is One onely for himself. And be<g ref="char:EOLhyphen"/>cause Self hath no righteousness nor good in it, to teach and act it; therefore it must have a Character to guide it, a Course to drive it, and a Promise to draw it. It can winde it self into any Form or Duty for ad<g ref="char:EOLhyphen"/>vantage-sake. It can bear Reproaches, Im<g ref="char:EOLhyphen"/>prisonment, Humiliation, Buffeting, Banish<g ref="char:EOLhyphen"/>ment, Fire, Loose all, and Endure all for Heaven; because 't'as heard that Heaven is a full reward. It is a Spirit incompassed or bounded within the Circle of Propriey, and cannot finde the way out. 'Tis never infinite, but finite, and little, and scanty: If it do any work of freedome of that nature, it strives and labours in it, and 'tis not natural work
+<pb n="8" facs="tcp:169767:8"/>to it. It acts cheerfully when its wages are before it: but take away the Reward, and the Work dies. Tell such a Principle that there is no other Heaven but living in and doing the Will of God, this flats and sads the heart exceedingly; it raises a Tumult in the soul, and makes it cry out <hi>Blasphemy.</hi>
+            </p>
+            <p>Q. <hi>Well, I experience a great depth of mischief that may and doth arise from this</hi> Adamite-<hi>Principle: But how shall I be delivered from it?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 'Tis Christ onely can make you free; and he <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an make you free indeed, and to pur<g ref="char:EOLhyphen"/>pose: He can break all bands and cords, all chaines and fetters from our Legs; and make us free-hearted, and pure-sighted, and open<g ref="char:EOLhyphen"/>handed, and bring all good to us.</p>
+            <p>Q. <hi>But what is this Christ that is said to be the Way, Truth, and Life; that is, He in whom we do all well, and as it should be done; soundly and righteously? I have been used to the name Christ much, and I have heard of the man Christ much; but pray is there not something more meant by that Christ, our Righteousness, Justifi<g ref="char:EOLhyphen"/>cation, and Life? is it not some inward Principle?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea, Christ Jesus our Saviour known
+<pb n="9" facs="tcp:169767:8"/>after the Spirit, is a Spirit of Love; a Spirit made Love: And this is the Principle of all Righteous actions, and the Guide of all Holy and Pure doings. Christ is a Spirit of pure Love, nothing else mixt with but Love, with<g ref="char:EOLhyphen"/>out all mixture. This Spirit of all Love, is God in Life, Light, and Strength in the Soule. This is Christ Jesus the New man, spoken of; that is, our Wisdome, Righteousness, Sanctification, and Redemption: This is that Principle that makes Infinite in appre<g ref="char:EOLhyphen"/>hending, and Eternal in doing: This is He; that Mas<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uline, that onely One, the Chiefest of all, the express Image of God and his Glory; the onely begotten Son: what ever He does, the Father is well, exceeding well pleased with it. Christ is then a Spirit of Love.</p>
+            <p>Q. <hi>How does Christ discover himself where he is?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He is known by his Super-fleshly, and Super-natural actions and goings forth, his singular Works. He layes down his Life for his enemies, He prayes for them, He blesses them, He forgives them. He feeds them, He heales them: He freely expends himselfe for the good of others. He seeks not his own, He beares all injuries, Endures all crosses, and seeks others help to His own hinderance: He is
+<pb n="10" facs="tcp:169767:9"/>especially delighted in works of Mercy and Compassion. It appears He is but a little in the World: He delights more in giving then in receiving: He is Infinite to others and Finite to Himself. Mercy is to Him more then all Burnt-offering and Sacrifice. Relieving a beast out of misery, is more then observing of a day, though it be the first in seven, called the Lords-day.</p>
+            <p>Q <hi>How is it that Christ's Works are better then Adam's?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because He acts in freedome. He is better and bigger then he seemes to be. He works more soundly and cordially more real<g ref="char:EOLhyphen"/>ly and inwardly, more chearfully and comfor<g ref="char:EOLhyphen"/>tably, more powerfully and effectually more boldly and couragiously, more thorowly and eternally: it has it's end in what it does; and it does to the end, and never ceases: It does in Peace, and not in Fear; it does being Justifica<g ref="char:EOLhyphen"/>tion, and not for Justification: It does from being one with God, and not to be one with God: It delights not in shadows, but in sub<g ref="char:EOLhyphen"/>stance. When Love works Life it self works. Whereas, <hi>Adam</hi> works for Life and Salvati<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi>
+            </p>
+            <p>Q <hi>What rule does Love walk by? or what guides and directs it in it's actions?</hi>
+            </p>
+            <pb n="11" facs="tcp:169767:9"/>
+            <p>
+               <hi>A.</hi> It is a rule and guide to it self. It rules and governs by its own Law and Scepter: 'tis the Sunne in the firmament of a Soule, that rules the day there. Where hearts are void of this Principle, there the Moon and the Starrs govern them: The Laws and Judgements of Men is their guide; and so they change as the Planets alter them. But this is such an alsuffici<g ref="char:EOLhyphen"/>ent light, that there needs no other; there needs no other teaching but as this teaches. This Lamb it is that is the Light of the Holy City.</p>
+            <p>Q. <hi>But what, does Love lay aside the Law, and it's teaching and government?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It makes no use of the Law at all for teaching and discipline, as a School-master; 'tis no longer so under it. But the Law or Scrip<g ref="char:EOLhyphen"/>ture is of very good and excellent use, to testi<g ref="char:EOLhyphen"/>fie and beare witness to it, as the Messias: there<g ref="char:EOLhyphen"/>fore search the Scriptures, for they are they that testifie of it; and upon it depends the whole Law and the Prophets. Love is the fulfilling of them: 'Tis the Sum, Substance, and Spirit of all truth: 'Tis all the Commandments and all that have been have, wrote of this Saviour Christ to come, as the onely deliverer of his people.</p>
+            <p>Q. <hi>Well, but we are then mistaken in our Saviour too. I understood Christ in
+<pb n="12" facs="tcp:169767:10"/>the literal sence, as he was once in the World in one person dying and suffering for the sins of mankinde?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mistakes are ordinary in the dark: Christ rightly known, is known after the Spirit, not after the Flesh. <hi>Paul</hi> had so known, but that was past with him: he now knew him in the New-man in him, which was this divine and Alsufficient Principle, Christ. In that one person was a glorious dispensation or manifestation of this glorious Principle, to act in lively demon<g ref="char:EOLhyphen"/>stration to the World: but Love in the Spirit of that one Person Christ, was that Almighty in him that made him to do and suffer all those Heroick acts as he did, to the worlds admira<g ref="char:EOLhyphen"/>tion. 'Twas this enabled him to leave the Glo<g ref="char:EOLhyphen"/>ry, and veil himself with Misery; to leave the Crown, and submit to the Cross: 'twas that en<g ref="char:EOLhyphen"/>abled him to do all: and for this, was he called <hi>the express image of his</hi> Fathers <hi>glory,</hi> who is said to be Love; <hi>God is love:</hi> and thus is he called <hi>our elder Brother,</hi> and <hi>the first fruits unto God,</hi> of or in this Spirit and Principle, and none else. This it was that was called <hi>the Son of God,</hi> the <hi>onely Son;</hi> and this makes us to be the Sons of God; and Co-heirs with our elder Brother in this glorious Principle of Life: and so much of Love in any spirit, so much
+<pb n="13" facs="tcp:169767:10"/>of the Lord Jesus is in that spirit. So that if the Faith of men be destroyed by this in any point, let it be so; it is but the the faith of men; and Christ came to ruine the Flesh, and to advance the Spirit: which himself is.</p>
+            <p>Q <hi>Well, but how is Love a Saviour? how does it justifie and acquit from Sin and Condemnation?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By unveiling the eyes of our Under<g ref="char:EOLhyphen"/>standings; by delivering us out of all bondage, and from being under a Law of carnal Com<g ref="char:EOLhyphen"/>mandments; by breaking down all partition<g ref="char:EOLhyphen"/>walls. The heart once changed into this Principle of Love, the Law ceases to it; all its rigor and power is taken away: and now Christ commands, instead of <hi>Moses:</hi> And so Christ being our Light, and Power in doing, we are at peace; and all dreadful apprehensi<g ref="char:EOLhyphen"/>on is taken away, and there is now no Con<g ref="char:EOLhyphen"/>demnation: For we are in Christ Jesus wrapt up in Love: the Law of that Spirit of Life, hath made us free from the Law of sin and Death. And this is that thing that is born of God, that cannot sin, and with whom the Wicked one hath nothing to do: and this is that immortal Seed, that Word that lives and abides: This is that High-Priest of the purest order, that had neither Father nor Mother, but
+<pb n="14" facs="tcp:169767:11"/>was immediately begotten of God. That high-Priest that is holy and harmless, undefi<g ref="char:EOLhyphen"/>led, and separate from sinners, that has entered into the Holy of holies, there to appear in the prefence of God for us; this is he that hath suffered for sin, and had none in him: and that saves from sin and wrath, by the sacrifice of himself; and doth for ever perfect.</p>
+            <p>Q. <hi>But a little more of this. How does Love justifie?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By Union with God. When once our Spirits are made Love that Love apprehends us, and we apprehend it as God: then we dwelling in love, dwell in God, and God in us, and are one with him: We are no more twain, but one; so making peace we are now in him and he is in us. Christ's prayer is, that we may be all one. Love makes us one with God; and Union is the root and foundation of Justification and Peace. And this we finde to be Christ's employment, to make us one with the Father; to draw us nigh, that are afar off, by reason of alienation and enmity in our mindes; to work reconciliation.</p>
+            <p>Q. <hi>I have much mused at the advancing of this Principle, and the high commenda<g ref="char:EOLhyphen"/>tion that is given to it in Scripture beyond all other gifts, as the onely Excellent Way.</hi>
+               <pb n="15" facs="tcp:169767:11"/>Paul, <hi>in</hi> 2 Cor. 12. <hi>runs over all the gifts<g ref="char:EOLhyphen"/>orders, and gallantries of the Saints: but brings in this at last as more excellent then all the rest; and sets down more noble acts performed by this then all the rest, in</hi> Chap. 13. <hi>and commends it among the Saints as the excellentest of all; wherewith he would have all things they do, be seasoned:</hi> Let all your things be done in Love <hi>saith he. And Christ abridges the Law into this one Com<g ref="char:EOLhyphen"/>mandment that he calls</hi> the New Command<g ref="char:EOLhyphen"/>ment, that they love one another, <hi>and calls it</hi> the whole Law, <hi>and</hi> the fulfilling of all righte<g ref="char:EOLhyphen"/>ousness. <hi>So that I begin to see it to be a mighty and noble Principle; but yet I want to be resolved in this one thing, What order it is that Love walks in? or among what people? and what it is exercised in?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Love walks in the order of God, it being God himself: and is confined to no one form, or to no one sort of people, but is free to al sorts of people in their several dispensations; seek<g ref="char:EOLhyphen"/>ing therein to heal and comfort all to hurt none; and none can hurt it. It exercises it self in doing as the weak do, that it may beget it self in the weak. Where doubt or question is made, and that people put more holiness in one Day or Form of worship then in another,
+<pb n="16" facs="tcp:169767:12"/>there it can condescend to them in that thing, as being nothing but shadow, to advance it selfe in them, as the onely substance. Thus <hi>Paul</hi> became all things; a Jew to the Jews <hi>&amp;c.</hi> Thus he could be Circumcised, as well as Baptized with water; and he blames not <hi>Timothy</hi> for the thing done, but for his manner of doing, his dissembling in in it; which if he had done it in love, he could not have dissembled: whereby he lost his advantage up<g ref="char:EOLhyphen"/>on the hearts of the people. 'Twas not Cir<g ref="char:EOLhyphen"/>cumcision, nor Uncircumcision, that was any thing to him; but to further the work of the new creature in them.</p>
+            <p>Q <hi>But is Circumcision lawful? That was an old administration of the Law, and is past and gone, and not to be revived.</hi>
+            </p>
+            <p>
+               <hi>A. All things are lawful, but all things are not expedient; all things do not edifie</hi> at all times. Though Circumcision be old and gone, with many, or most; yet if there were a people bound up to it, so that they could not see beyond it, Love would teach the heart of one under its power to condescend to a people under it, out of policie, to insinu<g ref="char:EOLhyphen"/>ate this onely thing it self, into them: For, he that thus observes it, observes it to the Lord; and he that thus observes it not, observes it not
+<pb n="17" facs="tcp:169767:12"/>to the Lord: so that we may do, and not do, and serve the Lord in both. 'Tis not Do<g ref="char:EOLhyphen"/>ing is any thing; but our Manner and End in doing that is the main.</p>
+            <p>Q. <hi>What is the action of Law, or the action of Grace? I pray distinguish to me.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> 'Tis action of Law or Grace, accord<g ref="char:EOLhyphen"/>ing as 'tis originall'd or principled. Circum<g ref="char:EOLhyphen"/>cision may be an act of Grace, and Baptism with water a work of the Law; if Fear drive to the one and Love draw to the other. If the Fear of God and his displeasure act thee, in any work, to do what is commanded, 'tis but a work of the Law: Let it be what it will, sell<g ref="char:EOLhyphen"/>ing all thou hast giving thy body to the fire for God, these are but works of the Law, if they be done from the <hi>Adamite</hi>-principle of Fear or Self-endedness.</p>
+            <p>Q <hi>But is it not good to keep the Law of God, and to observe it; and not to run out into extravagancies and excesses, as many do now-a-days, professing and speaking high from this principle?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yea. 'tis excellent and beautiful, sweet and comely to be an observer of the Law; but it must be with a Gospel-spirit, or else 'twill be but a bare observing indeed; and it will be no more satisfaction to thee, then the Pharisees
+<pb n="18" facs="tcp:169767:13"/>washing of pots and cups was to them. But, upon such ground as <hi>Paul</hi> speaks, to keep the Law is good; not as bound to the Law, or under the power of it for life or death; but as binding our selves to it by the command of Love, and doing of it upon this account, to serve your brother in it. <hi>Ʋse not your liberty,</hi> though you be called to liberty, <hi>as an occasion to the flesh, but by love serve one another;</hi> and to <hi>provide things honest in the sight of all men. Whatsoever things are good, ho<g ref="char:EOLhyphen"/>nest, of good report,</hi> &amp;c. these things follow, and thus do. <hi>Destroy not thy brother</hi> in such things, for the want of doing them, <hi>for whom Christ died:</hi> for then thou hast not Charity. Excessive behaviour destroys, rather then saves. I shall not here judge, but leave the judgement to the Lord; but I am perswaded that the extremities of many in These Times, and the excess in action to which they have been carried out, has been a Judgement to themselves, as well as an Offence to others; and that they having been carried out in ex<g ref="char:EOLhyphen"/>tremities of spirit, as being under the power of their action, have had little peace or comfort in or after such actions: walking so uncharitably <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them as they do, the Lord hath judged them for it, and will judge them. For this undoubt<g ref="char:EOLhyphen"/>edly
+<pb n="19" facs="tcp:169767:13"/>the Rule and Practice of Christ is, to do such things as are honeft in the sight of all men; and it is the practice of the highest measure that ever was, and such a practice as serenity of heart and a still quiet spirit will lead to. In this, I speak as one that hath obtained fa<g ref="char:EOLhyphen"/>vour of the Lord. Therefore, let your actions be under your power, but be not you under the power of your actions. <hi>I can do all things,</hi> saith <hi>Paul; but I will not be under the power of any</hi> thing, Whatever you do, do it in Love; and then, be sure, you shall do no<g ref="char:EOLhyphen"/>thing but what is good and well; and all you do, shall be also well done. If Love com<g ref="char:EOLhyphen"/>mand you to do, whatever you do, Christ is the power of that action: for Love behaves not it self unseemly.</p>
+            <p>Q. <hi>But what is the salvation that God will work for us in the world, and amongst the sons of men?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He will destroy the Reprobate-seed of the Serpent, or first <hi>Adam,</hi> in the hearts of all men; and infuse into the hearts of all his own, Elect-seed of Grace or Love; and that shall rule and command in all men. Then, when thus the Lord hath accomplished, shall those words be fulfilled, that <hi>the Lion and the Lamb shall agree together,</hi> &amp;c. and our
+<pb n="20" facs="tcp:169767:14"/>
+               <hi>swords shall be turned into plow-shares,</hi> &amp;c. and <hi>there shall be no hurting</hi> nor destroying <hi>in this holy mountain.</hi> The Scepter of righ<g ref="char:EOLhyphen"/>teousness shall bear sway; and <hi>the govern<g ref="char:EOLhyphen"/>ment shall be upon</hi> Christs <hi>shoulders:</hi> and the Prince of peace shall rule: and the cry of Oppression shall no more be heard; but Joy shall be, and Gladness, in all corners of the earth, from one end of the world to another. <hi>Ephraim</hi> shall not envie <hi>Judah,</hi> nor <hi>Judah</hi> vex <hi>Ephraim:</hi> but we shall be all of one heart and one way: the Lord shall be one, and his Name one in all the earth: for we <hi>shall be all taught of God.</hi>
+            </p>
+            <p>Q. <hi>But how long shall be the time of ful<g ref="char:EOLhyphen"/>filling? We see an increase of misery and oppression rather then a remedy: the state of the world being run into great extremi<g ref="char:EOLhyphen"/>ties everywhere what hopes can you give us of reviving in the midst of ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> servitude?</hi>
+            </p>
+            <p>
+               <hi>A. The vision is for an appointed time;</hi> it <hi>shall come, and shall not tarry.</hi> Wait for it; for it is at hand. <hi>When you see all these things come to pass, then lift up your heads; for redemption</hi> is at hand and salvation is at your very doors. When you see the world divide into parties, and when you see confusions every<g ref="char:EOLhyphen"/>where, and desolation; <hi>Nation against Na<g ref="char:EOLhyphen"/>tion,</hi>
+               <pb n="21" facs="tcp:169767:14"/>&amp;c. when you see the poor crying, and none to deliver; then, at this time, <hi>Now will I arise</hi> to save, and lift up and exalt my self. When you see <hi>all the tribes of the earth to mourn,</hi> and discontents in all mens hearts; <hi>ini<g ref="char:EOLhyphen"/>quity abounding,</hi> pride and cruelty, and <hi>love grow cold:</hi> when you see tears in all eyes, and paleness in all faces, and vexation in all hearts; no satisfaction to be had anywhere, or in any thing; all things come to a height of extremity; when there is none to help or up<g ref="char:EOLhyphen"/>hold: Then the Lord's own Arm will work salvation for us, and his Goodness will uphold and deliver us: then is the Lord's <hi>Now,</hi> his time and season to work salvation in for his people. The Lord never saves Souls and King<g ref="char:EOLhyphen"/>doms, till they are undone first of all. The ru<g ref="char:EOLhyphen"/>ines of the world betoken that God is at hand to do us good. Therefore, you that are in the grave, hope there, and wait: for the Lord is not far off.</p>
+            <p>Q. <hi>Well: but let us see some discovery of personal salvation. Where the Lord hath raised up his own elect seed in any heart, what are the buddings or blossoms of that seed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I shall here use my following Lines, to hint out, or make a draught of Love's attire,
+<pb n="22" facs="tcp:169767:15"/>or the clothing of Christ, his habit and appa<g ref="char:EOLhyphen"/>rel. And I would not have you expect me so much in this or that Form of Worship which every one sets up to themselves, but to look up<g ref="char:EOLhyphen"/>on Love as one all-sufficiently able to give and create to it self action sutable to its own divine teaching. By the way, note, That Christ, or the Spirit of Love, does not go to any for di<g ref="char:EOLhyphen"/>rection but to it self. The Sun cannot go any<g ref="char:EOLhyphen"/>where but to it self, for light: it infuses light into all, but all cannot adde to its light; it be<g ref="char:EOLhyphen"/>ing the light of all, and altogether light. There<g ref="char:EOLhyphen"/>fore, all actions that have their being truely and purely from Love, are holy actions, and righ<g ref="char:EOLhyphen"/>teous performances, 'Tis not so much this or that Form of duty instituted or commanded by the Law; but what is ordained by, and acted from this grace, that is to be called righ<g ref="char:EOLhyphen"/>teous action. That action, then, that proceeds purely from the Spirit, and is but the cloathing of this Spirit, is righteous and good action.</p>
+            <p>Q. <hi>But it will be said, Whatsoever acti<g ref="char:EOLhyphen"/>on, without any limitation at all? then may a man do that that is unseemly, or that is not good in all mens eyes? If it be in Love done, 'tis well enough, you may imagine the worst of action, if it come from this Prin<g ref="char:EOLhyphen"/>ciple?</hi>
+            </p>
+            <pb n="23" facs="tcp:169767:15"/>
+            <p>
+               <hi>A.</hi> This Quere the answer of it is weigh<g ref="char:EOLhyphen"/>ty and consequent to all hearts: therefore consider, That Love cloathes it self with no action but what is seemly, and of good report; but what is honest in the sight of all men. Love aimes at others good, and at others peace; and therefore will not do, but to advance the good and peace of others. Love, where it is, does not destroy the Law, but fulfill it. While the world stands, the Law will be in force, (I mean outwardly;) and therefore Love will keep it for peace and order sake and for its own sake. The Law is its own garment, and there<g ref="char:EOLhyphen"/>fore Love will wear it: but not so wear any one form or act, as that it may not change its apparel; but it will go comely and decent al<g ref="char:EOLhyphen"/>wayes, as becomes holiness; 'twill put on no other cloathing but such. I will speak to the highest in this Principle, this word, that for a<g ref="char:EOLhyphen"/>ny one to put themselves into any other appa<g ref="char:EOLhyphen"/>rel then what is seemly and good according to the Law, is not the actings of Love, from its mixt, moderate, setled, and serene Estate; but that that proceeds from a kind of compul<g ref="char:EOLhyphen"/>sive Principle, filling the heart with unquiet<g ref="char:EOLhyphen"/>ness, and distemperd thoughts, blown up and down by a mighty boisterous winde: and not from a still gale of the Spirit, the still gale of
+<pb n="24" facs="tcp:169767:16"/>the Spirit leading out or drawing forth into no other actions, but what the Law, and those un<g ref="char:EOLhyphen"/>der it, may call good; the excellent end of Love at present, by restoring to universal free<g ref="char:EOLhyphen"/>dome within, to settle the heart in peace and satisfaction, to dismiss guilt and bondage; but to limit it self in outward act according to the Law, upon the ground of Condescention. Which work of Condescention, I finde and ex<g ref="char:EOLhyphen"/>perience to be the onely employment of those that have attained the mark of the high calling of God in Christ Jesus. So that pure mixt Love is not disorderly, but orderly in all its ways and walks; it being the practice of the third heaven, to do the will of God here on earth. And this I have experienced in many; who having besmeared themselves with action, have washt themselves again, and coveted to do those things that are honest in the sight of all men. God bestows his grace for these two ends principally, as I finde in mine own expe<g ref="char:EOLhyphen"/>rience: 1. To heal and satisfie our hearts, and to make them sound and joyful. 2. To enable us to hold way with our brethren in all their weakness: the strong being made so to bear the infirmities of the weak, and not to please themselves.</p>
+            <p>Q. <hi>How does Love act? Make a little
+<pb n="25" facs="tcp:169767:16"/>draught of Love's</hi> Modum <hi>or manner of act<g ref="char:EOLhyphen"/>ing that I may be able to distinguish it from the old and base carnal Principle.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> For your sake, O thirsting heart, I will endeavour to inform you how Love paces, what are the properties and dispositions of this noble and royal Principle. And</p>
+            <p n="1">1. She does, or he does: for 'tis the Mascu<g ref="char:EOLhyphen"/>line vertue; and I prove it, by God his owning of it to be himself. 1. I shall tell you Love's propertie is not to do for it self; 'tis better at scattering then at gathering, at giving then re<g ref="char:EOLhyphen"/>ceiving. Carnal men do all for themselves; and he that does so, let him do what he will, he is a Carnal man, a Son of <hi>Adam.</hi> A Car<g ref="char:EOLhyphen"/>nal man Prayes, Reades, Heares, Preaches, gives his Almes to the poor, his body to the fire, and all for himself; thinking to get by it, to have a reward for all his work, to have a hundred for one: He is a great Usurer. But this heart does all for God and his sake; for the works sake, or for the sake of those he does it to. The one seeks Grace in order to Glory, and the other's Crown of glory, is to do the will of the Father.</p>
+            <p n="2">2. Its property is, to be alwayes bigger in heart, then it is or can be in action. Its desires are greater then its performances. 'T'as an in<g ref="char:EOLhyphen"/>finite
+<pb n="26" facs="tcp:169767:17"/>heart, when but a finite and narrow hand. Its heart is to relieve all hungry souls, when its purse is not able to relieve one. It wishes to have more of the dust of the world, to throw it away to the poor, or to cast its bread upon the waters. The poor are now like the Sea; they are many, and their cry is great; it wisbes it had for them all, every one. It thinks that stock best improved, that is given to the poor. It findes it so. You little think what rich returns are made by God into free hearts. If 'twere thus, if Christ raigned in men, the poor need not go a-begging. There was no Begger in <hi>Israel;</hi> and 'tis a shame there are so many in <hi>England.</hi> You that sit in the Stern, look to it: there is more Sacrifice in <hi>England</hi> then Mercy, which the Lord prefers.</p>
+            <p n="3">3. Love, or Christ's property, is to do se<g ref="char:EOLhyphen"/>cretly; not to let his left hand know of it. He does not Idolize his actions, and begod his performances. Christ does not let others see, no nor himself see what he does: he does all out of sight, out of his own sight. Hypocrites view and review their shadowes, as the sub<g ref="char:EOLhyphen"/>stance, as indeed it is: their substance is but shadow. They call every thing great in their own hearts, if it be but a peny to a poor man: but Christ's substance lies in the root; and all
+<pb n="27" facs="tcp:169767:17"/>his actions, if it be giving all he has, or undoing himself, suffering in the fire, it is but a sha<g ref="char:EOLhyphen"/>dow of that eternal and almighty Spirit.</p>
+            <p n="4">4. Christs property is to do eternally. Acti<g ref="char:EOLhyphen"/>on lasts as long as Principle; and that lasts for ever and ever; it out-lasts all; it sees an end of all. <hi>Adam</hi> growes faint, and weary in well doing; but Christ renews his strength in do<g ref="char:EOLhyphen"/>ing, like the Eagle; it runs, and is not weary; it walkes, and is not faint. Christ is eternal, and does eternally; and is never weary, but refresht in doing. It makes it self, in undoing it self. It desires to live eternally in the body, that it may do eternally, and for no other end. Its action is as abiding as it self.</p>
+            <p n="5">5. Christ is well pleased with all he does. He does nothing that he repents of, if it be un<g ref="char:EOLhyphen"/>doing of himself. Hypocrites do heavily, and sweat at their work; take pains at it, and get little by it: but Christ does easily and merrily: his <hi>yoke is easie, and his burden light:</hi> his work is no burden to him. <hi>Adam</hi> gives grudg<g ref="char:EOLhyphen"/>ingly, and repiningly; but Christ gives chear<g ref="char:EOLhyphen"/>fully. <hi>Adam</hi> looks for a return of his work; but Christ looks for none. A great gift, is a great burden to <hi>Adam;</hi> but the bigger the gift is that comes from Christ's hand, the more ea<g ref="char:EOLhyphen"/>sily and the better is he pleased. Christ can give
+<pb n="28" facs="tcp:169767:18"/>away his estate and life, with more ease then <hi>Adam</hi> can give a peny. So that Christ does all with ease and chearfulness.</p>
+            <p n="6">6. Love is not limited or stinted to one sort of duties, or to set-Times, but is free to all; to every thing, at all times; and does all it does, evermore. Hypocrisie worships by fits, and at certain hours and days, and is much zealous for them; but Love is always, and in all things, glorifying: it honours God in every thing and time, more then <hi>Adam</hi> does at his best time, and in his best work.</p>
+            <p n="7">7. Christ wears his own cloathes, his own apparel: he is, and gives being to all his own actions: But <hi>Adam,</hi> or the Hypocrite, walks by others appointment, and puts on others ha<g ref="char:EOLhyphen"/>bit; <hi>Paul</hi>'s, and <hi>John</hi>'s, and <hi>Peter</hi>'s and <hi>Moses</hi>'s, and patches up a Garment, a Profes<g ref="char:EOLhyphen"/>sion altogether theirs. But Christ habits him<g ref="char:EOLhyphen"/>self: he is not tied up to any Form, but creates a Form to himself; acts in its own likeness and not in imitation of others. Love is the father that begets, and the mother that bears all its own actions. Love does much with its little: and all were too little, if it had never so much, to manifest its own Royalty, and noble free<g ref="char:EOLhyphen"/>ness. It does excellent things, things that are most excellent: It is too narrow a world for
+<pb n="29" facs="tcp:169767:18"/>it to live in. Hypocrites words and works are bigger then their Principle; but Christ is big<g ref="char:EOLhyphen"/>ger then all he does: and whatever he does, 'tis his own work; he does not write after ano<g ref="char:EOLhyphen"/>ther's copie; but, by his own skill and power, he propagates himself.</p>
+            <p n="8">8. Love is the onely one at Praising and Thanksgiving; it does nothing but praise in all it does: <hi>in every thing,</hi> it <hi>gives thanks.</hi> It is fulness in it self therefore it praises. Wanting hearts are not apt to praise. It sees mercy in all, God in all; therefore it praises. Those that see God but of one side, in one thing, or some things, cannot praise. Nothing but all Glo<g ref="char:EOLhyphen"/>ry is in its eye, and all praise is in its heart. It fears not God; for it is one with him: nor the Devil; for he's under its feet: Therefore it praises. Praises is the onely employment of Christ; to sing, <hi>Glory be to God in the high<g ref="char:EOLhyphen"/>est, on earth peace, and good will toward men.</hi>
+            </p>
+            <p n="9">9. Christ is absolute satisfaction in himself: nothing disturbs or disquiets; nothing wounds or vexes: all's at peace, all's well; and it can be no better. <hi>Adam</hi> does nothing else but fear and doubt; lives in distrust and torment: If it be but to be lost in the opinion of the world, or approbation of men, it causes paleness of face, and sadness of heart. But Christ is not shaken
+<pb n="30" facs="tcp:169767:19"/>by the strongest blast of winde, nor the greatest tempest that winde and water can make: for he is the foundation. Christ can endure the blasts of Blasphemers and Devils, and cares not for it. But Oh how such Nick-names wound the Flesh! All's sound within, says the heart to it self; and come what will with<g ref="char:EOLhyphen"/>out and welcome. Hypocrisie fears every blast; mens censures are sentences of death: it loves to be well thought of, and well spoken of: it can envie for an ill word from another man, especially if it concern Reputation. But Love bears all, and takes it in good part, imputing all such things to proceed from weakness; and is strong to forgive injuries.</p>
+            <p n="10">10. Love is excellent at that divine and su<g ref="char:EOLhyphen"/>pernatural work of doing Good against Evil, of loving enemies, of praying for persecutors: none but Christ can do this: This is too heavie work for the Flesh; that studies Revenge and Amends for all Injuries done to it: it hath al<g ref="char:EOLhyphen"/>ways the best zeal in its own vindication; but Love calls that <hi>Folly,</hi> by <hi>Solomon.</hi> Christ died for enemies that slew him, and crucified him. Christ prayed heartily for them; <hi>Father, for<g ref="char:EOLhyphen"/>give them.</hi> Christ earnestly intreated them to glory. If his enemy hungred he fed him; or thirsted, gave him drink. But <hi>Adam</hi> says.
+<pb n="31" facs="tcp:169767:19"/>If I give, I will give to my friends, and to those from whom I hope to have some return again. 'Tis onely Christ that is cordial and sincere at self-denying work.</p>
+            <p n="11">11. Love does all it does in season, and thereby makes its actions beautiful and come<g ref="char:EOLhyphen"/>ly. It does not give the honey-comb to a full stomack, nor cast pearls before swine; but it deals its bread to the hungry, and administers great things to widened spirits: it drives as men are able to go: it knocks and intreats, before it threatens and commands: it loves to take every heart and business in hand, when all is fitted for accomplishment: it waits till the time come; and when 'tis come, it makes no delay: it answers to a call, and calls when an answer is ready: it speaks when hearts have ears to hear: it suffers when suffering advances the glory of God and his Cause: it does, as God, all in the fulness of time: it buds in the Spring, when beauty is upon all its appear<g ref="char:EOLhyphen"/>ances.</p>
+            <p n="12">12. Christ out-lives all things else. All Form and appearance dies and perishes in the using: But Love out-lives all the Religions in the world, and is the death of them all: it sees <hi>an end of all</hi> such <hi>perfection.</hi> 'Tis the immortal and the incorruptible seed. Every thing else
+<pb n="32" facs="tcp:169767:20"/>lives and dies; but Love's state is onely life. 'Tis the excellent glory. All things that the Old man knows or does, have beginning and end: but Love was, is, and shall be, when all is vanished. Gifts, Faith, and Knowledge cease; this remains. If you would be sure of Eterni<g ref="char:EOLhyphen"/>ty, get Love into your hearts. If you will write Eternity upon any thing, write it upon Love. All the worship and work of Saints, must be melted, and dissolved into this one and onely-excellent thing. 'Tis eternal life, and God himself. 'Tis the All-mighty, and All-holy, and All-happie, and All-glorious God. I do not say there is no other God: for there are that are called gods: But unto us there is but one, and this one; who will in time grinde all Images to powder. Well, not to dwell upon, but to live in this excellent one; If you would do more worthily then any, and exceed all that have gone before you, let this be your Strength. If you would be of the true undefi<g ref="char:EOLhyphen"/>led Religion, mortifie the Flesh, overcome the World, conquer the Devil: if you would be the death of the Body of death; if you would do all Gospel-work, and in righteousness be above the Law, overcome enemies, be faithful to all, oppress and wrong none: if you would walk in the excellent way, and enter in within
+<pb n="33" facs="tcp:169767:20"/>the veil, into the Holy of holies and understand all the secrets and mysteries of God, his hidden things: if you would do miracles and wonders; stop the mouthes of Lions, quench the violence of Fire, blunt the edge of the Sword, and do all that is to be done; you must be strength<g ref="char:EOLhyphen"/>ned with this Almighty power. In a word, if you would do all things well, <hi>Let all your things be done in love.</hi> If you would fulfil the Law in righteousness, then you must do in love: <hi>Love is the fulfilling of the Law,</hi> the spirit and substance of it and all righte ousness. If you would have your sins forgiven you, and be freed from condemnation, and justified; you must know all and do all in Love. If you would know right, and do well, 'tis by this light and power; and this will teach you both the beginning and end of all things. This is <hi>Alpha</hi> and <hi>Omega,</hi> the Beginning and the End, the First and Last. There was nothing be<g ref="char:EOLhyphen"/>fore it, and nothing shall follow it. 'Tis the God of <hi>Abraham, Isaac,</hi> and <hi>Jacob.</hi> 'Tis ALL in ALL.</p>
+            <pb n="34" facs="tcp:169767:21"/>
+            <lg>
+               <head>THEREFORE,</head>
+               <l>
+                  <hi>If live eternally thou wilt in Love thou must</hi>
+               </l>
+               <l>
+                  <hi>Then live: 'tis bliss: without it all's accurst.</hi>
+               </l>
+               <l>
+                  <hi>This is the power of Christ; 'tis God's right hand,</hi>
+               </l>
+               <l>
+                  <hi>In Saints, enabling them all to withstand,</hi>
+               </l>
+               <l>
+                  <hi>Without, within. To it shall all knees bow;</hi>
+               </l>
+               <l>
+                  <hi>All Powers in heaven and earth to it shall vow,</hi>
+               </l>
+               <l>
+                  <hi>And yeeld subjection: Kings their Crowns shall throw</hi>
+               </l>
+               <l>
+                  <hi>At</hi> Zion<hi>'s feet, when this God once they knew.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169767:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
